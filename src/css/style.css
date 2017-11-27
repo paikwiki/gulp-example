@@ -1,3 +1,23 @@
 body {
   background-color: papayawhip;
 }
+
+.gw {
+  margin: 0 auto;
+  max-width: 720px;
+}
+h1 {
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+  text-align: center;
+  color: palevioletred;
+}
+
+.sample-image-wrapper {
+  margin: 0 auto;
+  width: 240px;
+} 
+
+.sample-image-wrapper img {
+  width: 100%;  
+}

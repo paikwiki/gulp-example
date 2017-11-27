@@ -1,4 +1,9 @@
 node_modules
 dist
+app
 
+# gulp
+.gulp-cache
+
+# OSX
 .DS_Store
